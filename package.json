@@ -1,7 +1,7 @@
 {
   "author": "KOBA789 <kobahide789@gmail.com> (http://koba789.com/)",
   "name": "relay-sim",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "repository": {
     "type": "git",
     "url": "repo:relay-sim.git"
@@ -22,5 +22,6 @@
   "scripts": {
     "test": "/Users/koba789/src/relay-sim/node_modules/.bin/mocha"
   },
-  "main": "./lib/index.js"
+  "main": "./lib/index.js",
+  "description": "Electromagnetic relay simulator"
 }
