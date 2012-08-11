@@ -1,7 +1,7 @@
 {
   "author": "KOBA789 <kobahide789@gmail.com> (http://koba789.com/)",
   "name": "relay-sim",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "dependencies": {
     "expect.js": "~0.1.2"
   },
