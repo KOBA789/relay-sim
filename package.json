@@ -6,7 +6,10 @@
     "type": "git",
     "url": "repo:relay-sim.git"
   },
-  "dependencies": {},
+  "dependencies": {
+    "expect": "0.0.2",
+    "expect.js": "~0.1.2"
+  },
   "devDependencies": {
     "should": "~1.1.0",
     "coffee-script": "~1.3.3",
